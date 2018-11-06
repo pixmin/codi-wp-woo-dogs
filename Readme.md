@@ -12,4 +12,4 @@
 
 The price in the button is the price of the product of that section that is lowest.
 
-![Design](screenshop.png)
+![Design](screenshot.png)
